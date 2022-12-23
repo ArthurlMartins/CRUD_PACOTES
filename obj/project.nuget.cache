@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Ke3EZuel1x/umLUtam0OcMhESwD3z5gAfsPIUDorcYthuXfFuB8ErPumvMmHb5I82NWRs6a+q8NhqnvIL7W/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tuior\\OneDrive\\Documentos\\Backup\\Atividade2\\Atividade2\\Atividade2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuior\\.nuget\\packages\\mysqlconnector\\2.2.2\\mysqlconnector.2.2.2.nupkg.sha512",
+    "C:\\Users\\tuior\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\tuior\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\tuior\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
